@@ -1,5 +1,6 @@
 <?php
 include('../scripts/dbManagement.php');
+// <a class="btn btn-outline-primary" href="/mysql-querier" title="MySQL Querier" target="_blank">Open MySQL Querier</a>
 ?>
 <!doctype html>
 <html lang="nl">
