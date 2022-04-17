@@ -30,6 +30,8 @@ include('../scripts/dbManagement.php');
                     <p>Bekijk hier een uitgewerkt voorbeeld waarin PHP, HTML, CSS en een MySQL-database worden gecombineerd.</p>
                 <h3>phpMyAdmin & Querier</h3>
                     <a class="btn btn-outline-primary" href="/phpmyadmin" title="phpMyAdmin" target="_blank">Open phpMyAdmin</a>
+                    <a class="btn btn-outline-primary" href="/mysql-querier" title="mysql-querier" target="_blank">Open mysql-querier</a>
+
                     <p>Login met <strong>root</strong> als gebruikersnaam zonder wachtwoord.</p>
                 </div>
                 <div class="col">
